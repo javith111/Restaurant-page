@@ -21,6 +21,8 @@ Welcome to the Restaurant Landing Page project! This is a simple and elegant lan
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
+visit 
+https://javith111.github.io/Restaurant-page/ 
 
 You need a web browser to view the project. No additional software is required.
 
